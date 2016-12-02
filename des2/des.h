@@ -1,3 +1,8 @@
+/**
+ * 3DES, jianlinlong@gmail.com
+ * MIT lincense
+ */
+
 #ifndef _D_DES_H_
 #define _D_DES_H_
 
