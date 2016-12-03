@@ -1,6 +1,6 @@
 Triple Data Encryption Algorithm
 
-Easy to use
+Header only and easy to use
 
 Demo code:
 
